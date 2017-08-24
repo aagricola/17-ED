@@ -1,4 +1,4 @@
-#Week 1: Introduction
+# Week 1: Introduction
 ## Poetic Computation
 *"The main challenge is trying to create work that touches people at an emotional level, as opposed to them thinking about the technology or wondering how it was made. Making poems, not demos, is how we refer to it, i.e. making work that is like a poem, short yet dense, re-tellable, rhythmic, meaningful as opposed to a demo that just feels like technology for technology's sake. "*    -Zach Lieberman
 
@@ -10,7 +10,7 @@
 
 [LifeForms](https://www.youtube.com/watch?v=ROmTHBg8Nw0) is a software used by Merce Cunningham to choreograph previously unimaginable forms.
 
-###Why should I learn coding with Processing?
+### Why should I learn coding with Processing?
 
  - Learning to code allows you to build your very own tools instead of using someone else's
  - Processing is an intuitive and visually responsive language to learn to code in
@@ -23,6 +23,6 @@
 
 And we talk to the computer using coded instructions called an algorithm. It is nothing more than a detailed instruction. While the word algorithm is usually used in the realm of computers, you could call any precise explanation of how to do something an algorithm - a baking recipe, knitting instruction, driving directions, ect.
 
-##Assignment 1: Partner Portrait
+## Assignment 1: Partner Portrait
 
- Partner up with someone in class. Learn a little bit about each other by asking questions. Then sketch a portrait of the person incorporate some details of what you learned about them - hobbies, place of origin, favorite food, or whatever. Think in primitive shapes like the ones we learned in Processing. Then translate your drawing into code in Processing. It can be representational or somewhat spontaneous and abstract. Most importantly **HAVE FUN!**
+ Partner up with someone in class. Learn a little bit about each other by asking questions. Then sketch a portrait of the person visually incorporating some of the details you learned about them - hobbies, place of origin, favorite food, or whatever. Think in primitive shapes like the ones we learned in Processing. Then translate your drawing into code in Processing. It can be representational or somewhat spontaneous and abstract. Most importantly **HAVE FUN!**
