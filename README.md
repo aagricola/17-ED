@@ -1,3 +1,3 @@
 # 17-ED
 ## Welcome!
-MICA Expanded Designdddd
+MICA Expanded Design
