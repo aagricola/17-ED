@@ -10,6 +10,10 @@
 
 [LifeForms](https://www.youtube.com/watch?v=ROmTHBg8Nw0) is a software used by Merce Cunningham to choreograph previously unimaginable forms.
 
+*"Coding allows for dreams to become reality" - Me*
+
+[Augmented Hand Series](http://www.flong.com/projects/augmented-hand-series/) is a real-time interactive software system that presents playful, dreamlike, and uncanny transformations of its visitors’ hands; by by Golan Levin, Chris Sugrue, and Kyle McDonald
+
 ### Why should I learn coding with Processing?
 
  - Learning to code allows you to build your very own tools instead of using someone else's
