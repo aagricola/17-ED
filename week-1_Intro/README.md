@@ -42,6 +42,8 @@ And we talk to the computer using coded instructions called an algorithm. It is 
 #### WARNING: Do not be afraid to fail; every mistake you can (and possibly will) make has already been made before.
 [Zach Lieberman poem about failure beginning at 38:22](https://vimeo.com/47203759)
 
+[Download Processing from here](https://processing.org/download/)
+
 ## Assignment 1: Partner Portrait
 
  Partner up with someone in class. Learn a little bit about each other by asking questions. Then sketch a portrait of the person incorporating some details of what you learned about them - hobbies, place of origin, favorite food, or whatever. Think in primitive shapes like the ones we learned in Processing. Then translate your drawing into code in Processing. It can be representational or somewhat spontaneous and abstract. Most importantly **HAVE FUN!**
