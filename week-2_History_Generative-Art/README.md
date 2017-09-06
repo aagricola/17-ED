@@ -1,6 +1,6 @@
 # Welcome Back!
 
-##Today we will
+## Today we will
 - Look at homework (Submit an image file through Canvas)
 - Learn some history of Computational Art
 - Processing examples
