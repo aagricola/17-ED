@@ -16,11 +16,13 @@ Business Card Designed by [Huan Nguyen](http://huan-nguyen.com/)
 **in interior design**
 
 ![enter image description here](http://68.media.tumblr.com/9d48f34cef9abdefeeff3dfe8caa3c21/tumblr_msa82peNgQ1qbvfdgo1_500.jpg)
+
 This is an installation at a design consultancy in Portland
 
 **in fashion**
 
 ![enter image description here](https://static1.squarespace.com/static/58fc6d3303596e8981c04a55/t/590485683a04117659c06d37/1493479458185/01-14_2_Elvirathart.jpg?format=1000w)
+
 Drawn Scarf by [Elvira 'T Hart](https://www.elvirathart.com/drawn-scarf)
 
 **in packaging**
