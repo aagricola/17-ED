@@ -113,10 +113,11 @@ Digitally fabricate the forms so that they can
 be played with. Use any of the new tools
 we have learned for the design - Processing,
 Rhino, Grasshopper, or a combination. You can
-always return to Illustrator as well, but I would like for you to try to define parameters that are repeatable (refer back to last weeks reading for inspiration).
+always return to Illustrator as well, but I would like for you to try to define parameters that are repeatable (refer to this week's reading on repetition for inspiration).
 Due: Oct. 4
 
 ## Homework
 - Finish Assignment 2: Plant marker
 - Sketch ideas for Project 1
+- Readings in the Resources folder
 - Optional: Continue watching Rhino tutorials
