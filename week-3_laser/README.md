@@ -5,22 +5,30 @@
 - Begin a new Assignment
 - Introduction to best laser cutter practices
 
-You don't have to look very far these days to find artists and designers employing digital fabrication in their work. Laser cutting is being utilised in **graphic design**
+You don't have to look very far these days to find artists and designers employing digital fabrication in their work. Laser cutting is being utilised
+
+in **graphic design**
+
 ![enter image description here](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22836324214067.5852e9528a96c.gif)
+
 Business Card Designed by [Huan Nguyen](http://huan-nguyen.com/)
 
 **in interior design**
+
 ![enter image description here](http://68.media.tumblr.com/9d48f34cef9abdefeeff3dfe8caa3c21/tumblr_msa82peNgQ1qbvfdgo1_500.jpg)
 This is an installation at a design consultancy in Portland
 
 **in fashion**
+
 ![enter image description here](https://static1.squarespace.com/static/58fc6d3303596e8981c04a55/t/590485683a04117659c06d37/1493479458185/01-14_2_Elvirathart.jpg?format=1000w)
 Drawn Scarf by [Elvira 'T Hart](https://www.elvirathart.com/drawn-scarf)
 
 **in packaging**
+
 ![enter image description here](https://s-media-cache-ak0.pinimg.com/originals/c9/85/e0/c985e08ccb73fc430bafa4fabefab600.jpg)
 
 **AND in art**
+
 ![enter image description here](http://s3-eu-west-1.amazonaws.com/olafureliasson.net/objektimages_final/IMG_MDA114599_1600px.jpg)
 
 
