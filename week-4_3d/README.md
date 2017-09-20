@@ -92,7 +92,7 @@ G-code is a numerical control (NC) programming language. It is used in computer-
 
 Granorte Design
 
-![joints](http://www.domusweb.it/content/dam/domusweb/en/news/2015/08/01/olle_gellert_3d_printed_joints/rmedium/domus-02-gellert-3d-printed-joints.jpg)
+[joints](http://www.domusweb.it/content/dam/domusweb/en/news/2015/08/01/olle_gellert_3d_printed_joints/rmedium/domus-02-gellert-3d-printed-joints.jpg)
 
 Ollé Gellért, 3D printed joints
 
