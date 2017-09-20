@@ -110,10 +110,16 @@ Ollé Gellért, 3D printed joints
 
 [Easy laser cut box joint design](http://www.makercase.com/)
 
+[Rhino tutorials](http://www.rhino3d.com/tutorials) are very helpful. I especially recommend downloading the level 1 training manual. You can also find more grasshopper tutorials on the rhino site if that is the direction you want to take.
+
+
 ## Homework
 
-- Work on Modularity project. Next week is a work week in the station lab. Arrive at 9 am instead of 8:30 am. Bring the materials you will need to work in class next week. I will meet with you all individually during class to see what your plan is and how I can assist you.
+- Work on Modularity project. Next week is a work week in the station lab. **Arrive at 9 am** instead of 8:30 am. Bring the materials you will need to work in class next week. I will meet with you all individually during class to see what your plan is and how I can assist you.
 -
-“Modularity involves the arrangement of one or more elements to produce a multitude of forms.” Design something made of fixed parts that can be recombined in multiple configurations. Digitally fabricate the forms so that they can be played with. Use any of the new tools we have learned for the design - Processing, Rhino, Grasshopper, or a combination. You can always return to Illustrator as well, but I would like for you to try to define parameters that are repeatable (refer to this week's reading on repetition for inspiration). Due: Oct. 4
-- Watch this grasshopper tutorial in the lab and follow along. [Making a 3D puzzle](https://vimeo.com/35707093?grasshopper_3dpuzzle)
+Project 1 _ Modularity: “Modularity involves the arrangement of one or more elements to produce a multitude of forms.” Design something made of fixed parts that can be recombined in multiple configurations. Digitally fabricate the forms so that they can be played with. Use any of the new tools we have learned for the design - Processing, Rhino, Grasshopper, or a combination. You can always return to Illustrator as well, but I would like for you to try to define parameters that are repeatable (refer to this week's reading on repetition for inspiration). Due: Oct. 4
+- Watch a grasshopper tutorial in the lab and follow along.
+[Getting Started with Grasshopper](https://vimeopro.com/rhino/grasshopper-getting-started-by-david-rutten)
+or
+ [Making a 3D puzzle](https://vimeo.com/35707093?grasshopper_3dpuzzle)
 - Finish the reading from last week if you have not already and I will post a discussion in canvas that you can respond to at your leasure by next week.
