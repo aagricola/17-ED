@@ -6,6 +6,7 @@ Customization is a product of 3D printing technologies. The idea that parts can 
 [Danit Peleg](https://danitpeleg.com/) Designs 3D printable, wearable fashion. Now available, a customizable 3d printed jacket.
 
 Enabling customizable prosthetics to be accessible and affordable
+[Here is a link](http://www.danaeprosthetics.com/) to the website of some MICA alumns who received an up-start grant for their prosthetics design software.
 
 ![prosthetics](https://img.newatlas.com/exo-prosthetic-leg-low-cost-beautiful-22.JPG?auto=format%2Ccompress&ch=Width%2CDPR&crop=entropy&dpr=2&fit=crop&h=347&q=40&w=616&s=65ff5819e318d9d82fe99f3d2d645a33)
 
@@ -111,6 +112,8 @@ Ollé Gellért, 3D printed joints
 
 ## Homework
 
-- Work on Modularity project
-- Bring materials to work in class next week
+- Work on Modularity project. Next week is a work week in the station lab. Arrive at 9 am instead of 8:30 am. Bring the materials you will need to work in class next week. I will meet with you all individually during class to see what your plan is and how I can assist you.
+-
 “Modularity involves the arrangement of one or more elements to produce a multitude of forms.” Design something made of fixed parts that can be recombined in multiple configurations. Digitally fabricate the forms so that they can be played with. Use any of the new tools we have learned for the design - Processing, Rhino, Grasshopper, or a combination. You can always return to Illustrator as well, but I would like for you to try to define parameters that are repeatable (refer to this week's reading on repetition for inspiration). Due: Oct. 4
+- Watch this grasshopper tutorial in the lab and follow along. [Making a 3D puzzle](https://vimeo.com/35707093?grasshopper_3dpuzzle)
+- Finish the reading from last week if you have not already and I will post a discussion in canvas that you can respond to at your leasure by next week.
