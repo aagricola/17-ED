@@ -107,6 +107,8 @@ Ollé Gellért, 3D printed joints
 
 [Key to designing living hinge](http://blog.ponoko.com/2015/07/06/how-to-design-a-living-hinge/)
 
+[Easy laser cut box joint design](http://www.makercase.com/)
+
 ## Homework
 
 - Work on Modularity project
