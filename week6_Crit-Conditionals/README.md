@@ -54,3 +54,7 @@ And a few other things you will find in today's examples:
 
    ## In Class Assignment: Non-linear story
    Using the skills we have learned in class so far, create a Non-linear story. Don't spend too much time on this. It is really just to put conditional logic into practice, so use one or two buttons.
+
+   ## Homework:
+
+   Document your project and submit to canvas!
