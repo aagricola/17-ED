@@ -67,6 +67,6 @@ Built in 1999, this is the first mechanical mirror I built. This piece explores 
 [Daniel Shiffman's video on nested loops](https://www.youtube.com/watch?v=H7frvcAHXps) watch this video and follow along
 
 ## Homework
-- Watch the above videos about while and for loops.  If you're really into it, go ahead and watch the following two videos he has on functions!
+- Watch the above videos about while and for loops.  If you're really into it, feel free to watch more of his videos!
 
 - Create a visual pattern using for loops. It can be of your own design, or if you are having trouble thinking of something, make a "Master Copy" of one of the algorist's computer generated patterns.
