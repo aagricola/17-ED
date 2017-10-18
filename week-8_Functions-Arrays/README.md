@@ -70,7 +70,9 @@ coordinates on the canvas, index values for an array start counting from 0.
 
 This is really meant to help you keep track of your progression. Start doing researching towards your final project. The final project will be largely lead by your own personal interests and desires, utilizing new acquired skills. Read the reading about what a creative process journal is in this weeks resource folder. Let that guide you
 
-## Project 2: World, Body, Machine
+## Project 2: Systems: World, Body, Machine
+
+Using a combination of skills developed in class and through personal research, design a system that has many (maybe even infinite) number of outcomes. It can be a game, drawing generator, non-linear story, or anything you can dream up. Do something personally exciting to you.
 
 Think about social systems, cultural algorithms, and codes that are at work on a micro and macro scale. Design your own system that addresses your relationship to these. Think about physical interface and installation of the work. We will be learning physical computing next, so you can consider making something that is a physical bridge to the more screen based programming we have been doing.
 
@@ -78,4 +80,6 @@ Think about social systems, cultural algorithms, and codes that are at work on a
 
 - Make a pattern or a generative font using loops, functions, and Arrays
 - Begin a Creative Process Journal; you can use any blog site
-- Reading Sherry Turkle's "Thinking of Yourself as a Machine" -- We will discuss Nov. 1
+- Readings
+  - [Interesting article on the addictive nature of technology](https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia) 
+  - Sherry Turkle's "Thinking of Yourself as a Machine" -- We will discuss Nov. 1
