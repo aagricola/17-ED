@@ -77,6 +77,11 @@ I know many of you are interested in Generative Type. I am granting you access t
 
 [This is a wonderful tutorial](http://www.creativeapplications.net/processing/generative-typography-processing-tutorial/) created by Amnon Owed with extensive lessons in using Processing to create generative text. The first few Image Based examples should be understandable based on what we have learned in class.
 
+### Down with OOP
+
+If you want to dive into Object Oriented Programming, follow along with these [Daniel Shiffman videos](https://www.youtube.com/watch?v=YcbcfkLzgvs) 8.1 - 8.5
+
+
 ## Homework
 
 - [Arduino Uno](https://www.adafruit.com/product/50) and [A-B USB](https://www.adafruit.com/product/62)
@@ -84,4 +89,4 @@ I know many of you are interested in Generative Type. I am granting you access t
 - Begin a Creative Process Journal; you can use any blog site or just start a document, website, or slideshow.
 - Readings
   - [Interesting article on the addictive nature of technology](https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia)
-  - Sherry Turkle's "Thinking of Yourself as a Machine" -- We will discuss **Nov. 1** 
+  - Sherry Turkle's "Thinking of Yourself as a Machine" -- We will discuss **Nov. 1**
