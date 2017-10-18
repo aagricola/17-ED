@@ -7,10 +7,6 @@
 - Functions
 - Arrays
 
-## Creative Process Journal
-
-This is really meant to help you keep track of your progression. Start doing researching towards your final project. The final project will be largely lead by your own personal interests and desires, utilizing new acquired skills. Read the reading about what a creative process journal is in this weeks resource folder. Let that guide you
-
 ## Interactive Systems
 
 ![nike collab](https://static1.squarespace.com/static/52f8f4a0e4b0c2f2c1efab46/52f8fff7e4b065f3e46672f6/52f9048fe4b0860643b353ea/1392051360240/nike_paintSelect09.jpg?format=2500w)
@@ -69,6 +65,14 @@ update.
 - useful when a program has many elements to keep track of
 - Each item in an array is called an element, and each has an index value to mark its position within the array. Just like
 coordinates on the canvas, index values for an array start counting from 0.
+
+## Creative Process Journal
+
+This is really meant to help you keep track of your progression. Start doing researching towards your final project. The final project will be largely lead by your own personal interests and desires, utilizing new acquired skills. Read the reading about what a creative process journal is in this weeks resource folder. Let that guide you
+
+## Project 2: World, Body, Machine
+
+Think about social systems, cultural algorithms, and codes that are at work on a micro and macro scale. Design your own system that addresses your relationship to these. Think about physical interface and installation of the work. We will be learning physical computing next, so you can consider making something that is a physical bridge to the more screen based programming we have been doing.
 
 ## Homework
 
