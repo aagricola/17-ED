@@ -68,7 +68,7 @@ coordinates on the canvas, index values for an array start counting from 0.
 
 ## Creative Process Journal
 
-This is really meant to help you keep track of your progression. Start doing researching towards your final project. The final project will be largely lead by your own personal interests and desires, utilizing new acquired skills. Read the reading about what a creative process journal is in this weeks resource folder. Let that guide you
+This is really meant to help you keep track of your progression. Start doing researching towards your final project. The final project will be largely lead by your own personal interests and desires, utilizing new acquired skills. Read the reading about what a creative process journal in in this weeks resource folder. Let that guide you. This will also help when you present your final project.
 
 ## Project 2: Systems: World, Body, Machine
 
@@ -79,7 +79,7 @@ Think about social systems, cultural algorithms, and codes that are at work on a
 ## Homework
 
 - Make a pattern or a generative font using loops, functions, and Arrays
-- Begin a Creative Process Journal; you can use any blog site
+- Begin a Creative Process Journal; you can use any blog site or just start a document, website, or slideshow.
 - Readings
-  - [Interesting article on the addictive nature of technology](https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia) 
+  - [Interesting article on the addictive nature of technology](https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia)
   - Sherry Turkle's "Thinking of Yourself as a Machine" -- We will discuss Nov. 1
