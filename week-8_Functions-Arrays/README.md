@@ -32,16 +32,6 @@ Generative Book Project by Martin Fuchs and Peter Bichsel
 
 []"Hektor"](http://juerglehni.com/works/hektor), Jürg Lehni & Uli Franke, 2002
 
-
-## Generative Type
-
-I know many of you are interested in Generative Type. I am granting you access to log in to Creative Applications with my credentials (bc it costs money)
-
-- username: aagricola
-- password: expandeddesign
-
-[This is a wonderful tutorial](http://www.creativeapplications.net/processing/generative-typography-processing-tutorial/) created by Amnon Owed with extensive lessons in using Processing to create generative text. The first few Image Based examples should be understandable based on what we have learned in class.
-
 ## What are Functions?
 - Functions are a means of taking the parts of our program and separating them
 into modular pieces, making the code easier to read and understand (making your
@@ -76,9 +66,21 @@ Using a combination of skills developed in class and through personal research, 
 
 Think about social systems, cultural algorithms, and codes that are at work on a micro and macro scale. Design your own system that addresses your relationship to these. Think about physical interface and installation of the work. We will be learning physical computing next, so you can consider making something that is a physical bridge to the more screen based programming we have been doing.
 
+## Resources
+
+### Generative Type
+
+I know many of you are interested in Generative Type. I am granting you access to log in to Creative Applications with my credentials (bc it costs money)
+
+- username: aagricola
+- password: expandeddesign
+
+[This is a wonderful tutorial](http://www.creativeapplications.net/processing/generative-typography-processing-tutorial/) created by Amnon Owed with extensive lessons in using Processing to create generative text. The first few Image Based examples should be understandable based on what we have learned in class.
+
 ## Homework
 
-- Make a pattern or a generative font using loops, functions, and Arrays
+- [Arduino Uno](https://www.adafruit.com/product/50) and [A-B USB](https://www.adafruit.com/product/62)
+- Make a pattern or a generative font using loops, functions, and Arrays. Look through
 - Begin a Creative Process Journal; you can use any blog site or just start a document, website, or slideshow.
 - Readings
   - [Interesting article on the addictive nature of technology](https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia)
