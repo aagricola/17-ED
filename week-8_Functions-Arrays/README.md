@@ -84,4 +84,4 @@ I know many of you are interested in Generative Type. I am granting you access t
 - Begin a Creative Process Journal; you can use any blog site or just start a document, website, or slideshow.
 - Readings
   - [Interesting article on the addictive nature of technology](https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia)
-  - Sherry Turkle's "Thinking of Yourself as a Machine" -- We will discuss Nov. 1
+  - Sherry Turkle's "Thinking of Yourself as a Machine" -- We will discuss **Nov. 1** 
