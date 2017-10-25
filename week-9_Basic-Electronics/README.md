@@ -6,6 +6,15 @@
 - Make conductive paint
 - Design and create your own paper circuits
 
+## Why Use Objects
+- Objects are a way to group variables with related functions.
+- They break up your ideas into building blocks
+- They make it easier to write smaller pieces to make up a more complicated structure
+- The idea is to group related data (properties) with related methods that act on that data.
+
+In the context of objects, a variable is called a **property** (or instance variable)
+A function is called a **method**.
+
 ## Conductive Installation
 
 ![Leah](http://amandaagricola.com/2017/IA2/wp-content/uploads/2017/01/IMG_1846-002.jpg)
