@@ -50,3 +50,6 @@ Sketchbook Sample: Circuits + origami, by Jie Qi
 [What is Electricity](https://learn.sparkfun.com/tutorials/what-is-electricity)
 
 [Series vs. Parallel Circuits](https://learn.sparkfun.com/tutorials/series-and-parallel-circuits)
+
+## Homework
+[Buy Arduino board, chord, and breadboard](https://www.adafruit.com/product/193)
