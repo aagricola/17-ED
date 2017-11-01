@@ -24,6 +24,8 @@ void setup() {
   size(400, 400);
   background(255);
   
+  println(Arduino.list());
+
   // Run this sketch and replace the number in Arduino.list()[] by choosing your Arduino from the list printed in the console (it will look like "/dev/tty.usbmodem..."). 
   // The count will start at 0! Make sure your Arduino is plugged in first!
   arduino = new Arduino(this, Arduino.list()[1], 57600); // The last argument (57600) sets the communication speed
