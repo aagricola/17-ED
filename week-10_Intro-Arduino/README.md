@@ -31,7 +31,7 @@
 
 [Soldering Presentation](https://docs.google.com/presentation/d/10bPH_nBrClyt_rEKhuCHWSxKT2OhPTUtUOzh2Y-Bc6E/pub?start=false&loop=false&delayms=3000)
 
-##Assignments
+## Assignments
 
 - pushbutton controlling something on screen
 - something on screen control LED
