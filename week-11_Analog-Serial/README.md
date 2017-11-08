@@ -16,26 +16,6 @@ Serial.write sends raw binary value — that is, a single byte ranging from 0 to
 
 [Here is a video that explains what in the hell I'm talking about](https://vimeo.com/97519477)
 
-
-## The Machine in art
-
-[Jean Tinguely "Hommage to New York"](https://www.youtube.com/watch?v=0MqsWqBX4wQ), 1960
-Hacked musical instruments, bicycles, and appliances into a kinetic sculpture that destroys itself over the course of the evening.
-
-[Corey Archangel "Beat the Champ"](https://www.youtube.com/watch?v=baIiP8re1y4)
-Hacked Atari video games of bowling to only throw gutter-balls for Nintendo Gamecube. Similar to Tinguely's "Hommage to NY", Archangle's self playing system engages tirelessly in the self-sabotaging and mortifying act of throwing endless gutter-balls.
-
-[Pedro Reyes, "Disarm"](https://www.youtube.com/watch?v=YwQp16D-TqQ)
-Made from the remnants of weapons that the Mexican army had collected and destroyed, these machines are mechanical musical automatons; they can be programmed and operated via computers, making them capable of performing music concerts with compositions prepared beforehand.
-
-[Ryota Kuwakubo‘s ‘The Tenth Sentiment’](http://www.mutantspace.com/ryota-kuwakubo-the-tenth-sentiment-installation/)
-"Kuwakubo, a Japanese multi media artist, has been creating work for over 10 years based on the themes of relationships formed across various boundaries such as analog and digital, humans and machines and information transmitters and receivers. His work generally involves creating devices that are designed not only for providing experiences but also as tools for establishing communications between the people who experience them."
-
-[Ali Miharbi, "Whisper"](http://www.alimiharbi.com/work/the-whisper/), 2016
-“Whisper” is a sound installation consisting of compressed air flowing through acoustic resonators based on the shapes human vocal tract takes during speech. The sounds that the viewer hears while walking around the space resemble human whispering, as well as breathing. Sound sequences are based on the probabilities of the alphabet’s letters to succeed each other in a collection of texts, thus reflecting rhythms in language."
-
-[Marcelo Gómez Moreira, "Tender: It's How People Meat"](https://www.youtube.com/watch?v=snDeLy8cu24)
-
 ## Physical Interface
 
 [ Neil Mendoza, "Robotic Voice Activated Word Kicking Machine"](https://vimeo.com/177486245)
