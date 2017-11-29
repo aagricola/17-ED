@@ -60,12 +60,6 @@ function setup() {
 [Reinier Feijen](http://www.boxofchocolates.nl/)
 
 
-## Project 2: Systems: World, Body, Machine
-
-Using a combination of skills developed in class and through personal research, design a system that has many (maybe even infinite) number of outcomes. It can be a game, drawing generator, non-linear story, or anything you can dream up. Do something personally exciting to you.
-
-Think about social systems, cultural algorithms, and codes that are at work on a micro and macro scale. Design your own system that addresses your relationship to these. Think about physical interface and installation of the work. Consider making something that is a physical bridge or interface to the more screen based programming we have been doing.
-
 ## Project Presentation
 
 Please make a 5 minute presentation including slides about:
