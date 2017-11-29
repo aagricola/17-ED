@@ -59,14 +59,13 @@ function setup() {
 
 [Reinier Feijen](http://www.boxofchocolates.nl/)
 
-
 ## Project Presentation
 
 Please make a 5 minute presentation including slides about:
 - Project mission
 - Project Inspiration
 - Documentation or live demonstration of prototype
-- Projection of final product
+- Mock-up or rendering of projected finished product
 
 ## Homework
 
