@@ -1,9 +1,9 @@
 # Hello!
 
 ## Today:
-- Move from Processing to p5.js
-- Editing HTML and CSS elements dynamically
-- Hosting a sketch
+- Intro to p5.js
+- Translate a sketch from Processing to p5.js
+- Project work day 
 
 ## p5.js
 
