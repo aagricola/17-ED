@@ -3,7 +3,7 @@
 ## Today:
 - Intro to p5.js
 - Translate a sketch from Processing to p5.js
-- Project work day 
+- Project work day
 
 ## p5.js
 
@@ -52,8 +52,11 @@ function setup() {
 ## Net Artworks
 
 [Rafael Rozendaal](http://www.newrafael.com/websites)
+
 [Jeremey Bailey, "Next"](http://jeremybaileynext.com/), A sympathetic painting software
+
 [installation view](http://carrollfletcheronscreen.com/2016/05/12/jeremy-bailey-next/)
+
 [Reinier Feijen](http://www.boxofchocolates.nl/)
 
 
